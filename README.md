@@ -1,2 +1,3 @@
 # frt project
-azure link https://ambitious-pebble-0ea945310.4.azurestaticapps.net
+azure link https://myfrtproject11.z19.web.core.windows.net/
+
