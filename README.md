@@ -1,5 +1,5 @@
 # frt project
-azure link https://myfrtproject123.z19.web.core.windows.net/
+azure link https://recipesbook.z19.web.core.windows.net/
 
 A recipe book project is an organized effort to compile a collection of recipes into a cohesive and engaging publication. It can be centered around a specific theme, cuisine, or cooking style.
 
